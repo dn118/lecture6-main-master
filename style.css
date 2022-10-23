@@ -1,0 +1,24 @@
+p{
+    padding: 10px;
+    background: green;
+    display: none;
+}
+div{
+    margin: 20px 0;
+}
+
+.box{
+    width: 80%;
+    height: 200px;
+    background: red;
+    margin-top: 30px;
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background: #9d7ede;
+    margin-top: 30px;
+    border-style: solid;
+    border-color: #6f40ce;
+}
